@@ -1,0 +1,11 @@
+body {
+    background-color: #cdb4db
+}
+
+.card {
+    width: 75%;
+    background-color: #bde0fe;
+    padding: 2rem;
+    margin: 2rem;
+
+}
